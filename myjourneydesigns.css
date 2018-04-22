@@ -1,0 +1,27 @@
+.xxxx{
+	background-image: url("https://thumbs.dreamstime.com/z/hand-touching-success-search-bar-tablet-screen-word-crumpled-papers-39237589.jpg");
+
+}
+
+.mypanel{
+
+	margin:0px 600px 500px 0px;
+	border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 0px 0px 4px black;}
+.mypanel .heading{
+	background:#5D6913;
+	color:white;
+	padding:10px 20px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+.mypanel .body{
+	padding:10px 20px;
+}
+
+.xxx{
+	margin: 0px 0px 0px 500px;
+	color:orange;
+}
+
